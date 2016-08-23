@@ -1,4 +1,6 @@
 ## This will solve the inverse of a matrix and cache the results
+## Call x <- makeCacheMatrix(matrix) followed by
+## cacheSolve(x)
 
 ## Call this function first on a matrix to create a caching 
 ## object that you can pass to cacheSolve
